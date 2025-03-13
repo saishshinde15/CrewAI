@@ -8,6 +8,9 @@ This repository contains different projects demonstrating how CrewAI can be used
 ## 🛠️ Installation & Setup
 To run these projects, follow these general steps:
 
+### 🖥️ Local Setup
+To run these projects, follow these general steps:
+
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/saishshinde15/CrewAI.git
@@ -27,6 +30,16 @@ To run these projects, follow these general steps:
 
 4. **Run a Specific Project**
    - Navigate to the respective project folder and follow its README for detailed instructions.
+
+### ☁️ Running Jupyter Notebooks on Google Colab
+For projects containing Jupyter notebooks, you can run them directly on Google Colab:
+
+1. Open the GitHub repository in your browser.
+2. Navigate to the desired Jupyter Notebook (`.ipynb` file).
+3. Click on the "Open in Colab" button (or manually open it by replacing `github.com` with `colab.research.google.com/github/` in the URL).
+4. Run the notebook in Colab without needing local setup.
+
+---
 
 ## 📖 Documentation & Usage
 Each project folder contains a dedicated `README.md` with:
